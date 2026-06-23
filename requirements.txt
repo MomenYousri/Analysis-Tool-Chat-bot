@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+ydata-profiling
+google-generativeai
+python-dotenv
